@@ -8,6 +8,12 @@ If configured, the environment variable `SYSTEM_COMMAND` is read and run and its
 
 # Stand alone
 
+install dependencies :
+
+```
+npm install
+```
+
 running with no command configured :
 
 ```
